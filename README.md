@@ -4,10 +4,6 @@ A high-quality, professional React.js application for Elite IELTS Academy, a fic
 
 ![Elite IELTS Academy](https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&h=630&fit=crop&crop=center)
 
-## 🚀 Live Demo
-
-**[View Live Demo](https://your-username.github.io/elite-ielts-academy)**
-
 ## ✨ Features
 
 ### Core Functionality
@@ -100,39 +96,6 @@ The build artifacts will be stored in the `dist/` directory.
 3. **Automated deployment with GitHub Actions** (Optional)
    - The project includes a GitHub Actions workflow for automatic deployment
    - Push to main branch to trigger deployment
-
-## 🎨 Customization
-
-### Colors & Theming
-The color scheme is defined in `tailwind.config.js`:
-- Primary: Blue (#1e40af)
-- Success: Green (#10b981)
-- Dark mode colors are automatically generated
-
-### Content Updates
-- **Features**: Edit `public/features.json`
-- **Testimonials**: Edit `public/testimonials.json`
-- **Contact Info**: Update `src/components/Footer.tsx`
-
-### Adding New Sections
-1. Create component in `src/components/`
-2. Add to `src/App.tsx`
-3. Update navigation in `src/components/Navbar.tsx`
-
-## 🧪 Testing
-
-The project includes comprehensive testing setup:
-
-```bash
-npm run test         # Run all tests
-npm run test:ui      # Run tests with UI
-npm run test:coverage # Run tests with coverage
-```
-
-### Test Structure
-- **Unit Tests**: Component behavior and props
-- **Integration Tests**: Theme context and hooks
-- **Accessibility Tests**: Keyboard navigation and ARIA labels
 
 ## ♿ Accessibility Features
 
