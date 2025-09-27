@@ -1,0 +1,46 @@
+{
+  "features": [
+    {
+      "id": "ai-speaking",
+      "title": "AI-Powered Speaking Practice",
+      "description": "Get real-time feedback on your pronunciation, fluency, and coherence with our advanced AI technology.",
+      "icon": "FaMicrophone",
+      "learnMoreUrl": "#speaking"
+    },
+    {
+      "id": "mock-tests",
+      "title": "Comprehensive Mock Tests",
+      "description": "Simulate the real exam experience with our full-length practice tests that mirror the actual IELTS format.",
+      "icon": "FaClipboardList",
+      "learnMoreUrl": "#tests"
+    },
+    {
+      "id": "band-predictor",
+      "title": "AI Band Score Predictor",
+      "description": "Get instant, accurate band score predictions for all four skills based on your performance.",
+      "icon": "FaChartLine",
+      "learnMoreUrl": "#predictor"
+    },
+    {
+      "id": "study-plans",
+      "title": "Personalized Study Plans",
+      "description": "Receive tailored study recommendations based on your strengths, weaknesses, and target band score.",
+      "icon": "FaUserGraduate",
+      "learnMoreUrl": "#plans"
+    },
+    {
+      "id": "expert-feedback",
+      "title": "Expert Teacher Feedback",
+      "description": "Get detailed feedback from certified IELTS instructors on your writing and speaking tasks.",
+      "icon": "FaChalkboardTeacher",
+      "learnMoreUrl": "#feedback"
+    },
+    {
+      "id": "flexible-schedule",
+      "title": "Flexible Learning Schedule",
+      "description": "Study at your own pace with 24/7 access to all materials and practice resources.",
+      "icon": "FaClock",
+      "learnMoreUrl": "#schedule"
+    }
+  ]
+}
